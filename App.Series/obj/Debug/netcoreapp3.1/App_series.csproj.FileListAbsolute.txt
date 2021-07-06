@@ -1,0 +1,13 @@
+D:\Visual Studio MS\Repositórios\Comecando\App.Series\bin\Debug\netcoreapp3.1\App_series.exe
+D:\Visual Studio MS\Repositórios\Comecando\App.Series\bin\Debug\netcoreapp3.1\App_series.deps.json
+D:\Visual Studio MS\Repositórios\Comecando\App.Series\bin\Debug\netcoreapp3.1\App_series.runtimeconfig.json
+D:\Visual Studio MS\Repositórios\Comecando\App.Series\bin\Debug\netcoreapp3.1\App_series.runtimeconfig.dev.json
+D:\Visual Studio MS\Repositórios\Comecando\App.Series\bin\Debug\netcoreapp3.1\App_series.dll
+D:\Visual Studio MS\Repositórios\Comecando\App.Series\bin\Debug\netcoreapp3.1\App_series.pdb
+D:\Visual Studio MS\Repositórios\Comecando\App.Series\obj\Debug\netcoreapp3.1\App_series.csprojAssemblyReference.cache
+D:\Visual Studio MS\Repositórios\Comecando\App.Series\obj\Debug\netcoreapp3.1\App_series.AssemblyInfoInputs.cache
+D:\Visual Studio MS\Repositórios\Comecando\App.Series\obj\Debug\netcoreapp3.1\App_series.AssemblyInfo.cs
+D:\Visual Studio MS\Repositórios\Comecando\App.Series\obj\Debug\netcoreapp3.1\App_series.csproj.CoreCompileInputs.cache
+D:\Visual Studio MS\Repositórios\Comecando\App.Series\obj\Debug\netcoreapp3.1\App_series.dll
+D:\Visual Studio MS\Repositórios\Comecando\App.Series\obj\Debug\netcoreapp3.1\App_series.pdb
+D:\Visual Studio MS\Repositórios\Comecando\App.Series\obj\Debug\netcoreapp3.1\App_series.genruntimeconfig.cache
